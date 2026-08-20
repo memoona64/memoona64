@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Hi%20👋,%20I'm%20Memoona%20Tariq&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Hi%20,%20I'm%20Memoona%20Tariq&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" />
 </h1>
 
 <p align="center">
@@ -15,16 +15,8 @@
 <table align="center" border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <p>I'm a <strong>Software Engineer</strong> and <strong>Full-Stack MERN Developer</strong> (BSIT) specializing in building scalable web architectures and intelligent AI-driven applications.</p>
-      <p>Passionate about <strong>high-velocity development & rapid prototyping</strong>, I leverage cutting-edge AI coding workflows to build production-ready software efficiently and cleanly.</p>
-    </td>
-    <td width="40%" align="center" valign="top">
-      <h3>🚀 Core Stack</h3>
-      <p>
-        <code>React.js</code> • <code>Node.js</code> • <code>Express</code> • <code>MongoDB</code><br>
-        <code>JavaScript</code> • <code>TailwindCSS</code> • <code>Python</code> • <code>RAG & AI APIs</code>
-      </p>
-    </td>
+      <p>I'm a <strong>Software Engineer</strong> and <strong>Full-Stack MERN Developer</strong> (BSIT) specializing in building scalable web architectures and intelligent AI-driven applications.Passionate about <strong>high-velocity development & rapid prototyping</strong>, I leverage cutting-edge AI coding workflows to build production-ready software efficiently and cleanly.</p>
+    
   </tr>
 </table>
 
@@ -93,14 +85,6 @@
 
 ---
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=memoona64&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=memoona64&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
