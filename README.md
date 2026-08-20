@@ -67,17 +67,17 @@
 ### 🏋️ Gym Management Dashboard *(Frontend)*
 * **Overview:** Built a high-performance, responsive UI interface for managing gym members, workout schedules, and activity tracking.
 * **Tech:** React.js, Modern CSS/Tailwind
-<p align="left"><img src="PASTE_IMAGE_URL_HERE" width="600" alt="Gym Management Dashboard"/></p>
+
 
 ### 🍞 Premium Bakery Website *(Full MERN Stack)*
 * **Overview:** Developed an e-commerce platform featuring a dynamic product catalog, interactive cart state, and complete backend integration.
 * **Tech:** MongoDB, Express.js, React.js, Node.js
-<p align="left"><img src="PASTE_IMAGE_URL_HERE" width="600" alt="Premium Bakery Website"/></p>
+
 
 ### 🎓 University Complaint Portal *(Full MERN Stack)*
 * **Overview:** Created an administrative and student portal enabling real-time issue submission, tracking workflows, and role-based management.
 * **Tech:** MERN Stack
-<p align="left"><img src="PASTE_IMAGE_URL_HERE" width="600" alt="University Complaint Portal"/></p>
+
 
 ---
 
@@ -93,14 +93,6 @@
 
 ---
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=memoona64&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=memoona64&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
