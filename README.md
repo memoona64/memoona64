@@ -43,7 +43,11 @@ Worked on user-facing and full-stack applications, including a gym management da
 
 ## Recognition
 
-**First Place — Saylani First Hackathon** for a web development project: a NIC Hyderabad landing page clone.
+- 🥇 **First Place — Data and AI Fellowship Capstone Project** for **PakLaw AI**.
+- 🏅 **Intern of the Month** — Recognized for my contributions during my internship.
+- 🥇 **First Place — Final Year Project Exhibition**
+- 🥈 **Second Place — High-Speed Frontend Development Competition**
+- 🥇 **First Place — Saylani First Hackathon** for a NIC Hyderabad landing page clone.
 
 ---
 
